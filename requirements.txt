@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+wolframalpha
+newsapi-python
+Pillow
+playsound
+axju-jokes
+PyDictionary
+meross-iot
+#pyspotify #Installed using brew and then pip
